@@ -1,0 +1,3 @@
+A : cA' | bdA' | adA' 
+S : Aa | b | a 
+A' : cA' | adA' | epsilon 

@@ -1,0 +1,4 @@
+A : bd | epsilon | AA' 
+S : a | (S) | SS' 
+S' : S | * | +S 
+A' : ad | c 
